@@ -1,0 +1,15 @@
+{
+  "name": "icons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "node icon-font/generate-icon-font.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fantasticon": "^2.0.0"
+  }
+}
