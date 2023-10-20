@@ -20,6 +20,6 @@ generateFonts({
   normalize: true,
   selector: null,
   tag: "div",
-  prefix: "icon",
+  prefix: "i",
   fontsUrl: "",
 }).then((results) => console.log(results));
