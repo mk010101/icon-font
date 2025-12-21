@@ -9,7 +9,7 @@
   },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "fantasticon": "^2.0.0"
+  "dependencies": {
+    "fantasticon": "^3.0.0"
   }
 }

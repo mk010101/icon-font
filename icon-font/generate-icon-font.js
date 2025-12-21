@@ -1,10 +1,10 @@
 import { generateFonts, FontAssetType, OtherAssetType } from "fantasticon";
 
 generateFonts({
-  name: "a-icons",
+  name: "icon-font",
   inputDir: "./icon-font/svg",
   outputDir: "./icon-font/font",
-  fontTypes: [FontAssetType.WOFF, FontAssetType.TTF],
+  fontTypes: [FontAssetType.WOFF2],
   assetTypes: [OtherAssetType.CSS, OtherAssetType.HTML],
   formatOptions: {
     format: true,
@@ -14,9 +14,9 @@ generateFonts({
   },
   pathOptions: {},
   codepoints: {},
-  fontHeight: 1024,
+  fontHeight: 600,
   round: undefined,
-  descent: 118,
+  descent: 100,
   normalize: true,
   selector: null,
   tag: "div",
