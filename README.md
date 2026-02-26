@@ -11,4 +11,4 @@ Googls SVG icons are all messed up. You need to normailise them:
 
 ## Generate
 
-- `node run icon-font/generate.js`
+- `node icon-font/generate.js`
