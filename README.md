@@ -1,6 +1,6 @@
 ## Google material icons
 
-- weight: 100
+- weight: **200**
 
 ## Transform
 
