@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "build": "node icon-font/generate-icon-font.js"
+    "build": "node icon-font/generate.js"
   },
   "author": "",
   "license": "ISC",
