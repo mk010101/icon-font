@@ -1,0 +1,538 @@
+[
+  {
+    "url": "add.svg",
+    "name": "add"
+  },
+  {
+    "url": "add2.svg",
+    "name": "add2"
+  },
+  {
+    "url": "airplane.svg",
+    "name": "airplane"
+  },
+  {
+    "url": "alert.svg",
+    "name": "alert"
+  },
+  {
+    "url": "align-center-vertical.svg",
+    "name": "align center vertical"
+  },
+  {
+    "url": "align-top.svg",
+    "name": "align top"
+  },
+  {
+    "url": "align_bottom.svg",
+    "name": "align bottom"
+  },
+  {
+    "url": "anchor.svg",
+    "name": "anchor"
+  },
+  {
+    "url": "arrow_back.svg",
+    "name": "arrow back"
+  },
+  {
+    "url": "arrow_down.svg",
+    "name": "arrow down"
+  },
+  {
+    "url": "arrow_dropdown.svg",
+    "name": "arrow dropdown"
+  },
+  {
+    "url": "arrow_forward.svg",
+    "name": "arrow forward"
+  },
+  {
+    "url": "arrow_up.svg",
+    "name": "arrow up"
+  },
+  {
+    "url": "bag.svg",
+    "name": "bag"
+  },
+  {
+    "url": "bin.svg",
+    "name": "bin"
+  },
+  {
+    "url": "block.svg",
+    "name": "block"
+  },
+  {
+    "url": "book.svg",
+    "name": "book"
+  },
+  {
+    "url": "brush.svg",
+    "name": "brush"
+  },
+  {
+    "url": "calendar.svg",
+    "name": "calendar"
+  },
+  {
+    "url": "call.svg",
+    "name": "call"
+  },
+  {
+    "url": "champagne.svg",
+    "name": "champagne"
+  },
+  {
+    "url": "chart-line-up.svg",
+    "name": "chart line up"
+  },
+  {
+    "url": "chat-text.svg",
+    "name": "chat text"
+  },
+  {
+    "url": "chat.svg",
+    "name": "chat"
+  },
+  {
+    "url": "check.svg",
+    "name": "check"
+  },
+  {
+    "url": "check_circle.svg",
+    "name": "check circle"
+  },
+  {
+    "url": "checkbox.svg",
+    "name": "checkbox"
+  },
+  {
+    "url": "checkbox_checked.svg",
+    "name": "checkbox checked"
+  },
+  {
+    "url": "chevron_left.svg",
+    "name": "chevron left"
+  },
+  {
+    "url": "chevron_right.svg",
+    "name": "chevron right"
+  },
+  {
+    "url": "clock.svg",
+    "name": "clock"
+  },
+  {
+    "url": "close.svg",
+    "name": "close"
+  },
+  {
+    "url": "code.svg",
+    "name": "code"
+  },
+  {
+    "url": "compass.svg",
+    "name": "compass"
+  },
+  {
+    "url": "copy.svg",
+    "name": "copy"
+  },
+  {
+    "url": "credit_card.svg",
+    "name": "credit card"
+  },
+  {
+    "url": "cube.svg",
+    "name": "cube"
+  },
+  {
+    "url": "design.svg",
+    "name": "design"
+  },
+  {
+    "url": "desktop.svg",
+    "name": "desktop"
+  },
+  {
+    "url": "device-mobile.svg",
+    "name": "device mobile"
+  },
+  {
+    "url": "device-tablet.svg",
+    "name": "device tablet"
+  },
+  {
+    "url": "dictionary.svg",
+    "name": "dictionary"
+  },
+  {
+    "url": "doc.svg",
+    "name": "doc"
+  },
+  {
+    "url": "doc2.svg",
+    "name": "doc2"
+  },
+  {
+    "url": "download.svg",
+    "name": "download"
+  },
+  {
+    "url": "drag.svg",
+    "name": "drag"
+  },
+  {
+    "url": "dress.svg",
+    "name": "dress"
+  },
+  {
+    "url": "dress1.svg",
+    "name": "dress1"
+  },
+  {
+    "url": "edit.svg",
+    "name": "edit"
+  },
+  {
+    "url": "edit2.svg",
+    "name": "edit2"
+  },
+  {
+    "url": "error.svg",
+    "name": "error"
+  },
+  {
+    "url": "eye-slash.svg",
+    "name": "eye slash"
+  },
+  {
+    "url": "eye.svg",
+    "name": "eye"
+  },
+  {
+    "url": "eyeglasses.svg",
+    "name": "eyeglasses"
+  },
+  {
+    "url": "face.svg",
+    "name": "face"
+  },
+  {
+    "url": "favourite.svg",
+    "name": "favourite"
+  },
+  {
+    "url": "film-reel.svg",
+    "name": "film reel"
+  },
+  {
+    "url": "filter.svg",
+    "name": "filter"
+  },
+  {
+    "url": "flower-lotus.svg",
+    "name": "flower lotus"
+  },
+  {
+    "url": "flower-tulip.svg",
+    "name": "flower tulip"
+  },
+  {
+    "url": "flower.svg",
+    "name": "flower"
+  },
+  {
+    "url": "folder-open.svg",
+    "name": "folder open"
+  },
+  {
+    "url": "folder-plus.svg",
+    "name": "folder plus"
+  },
+  {
+    "url": "folder.svg",
+    "name": "folder"
+  },
+  {
+    "url": "globe.svg",
+    "name": "globe"
+  },
+  {
+    "url": "handshake.svg",
+    "name": "handshake"
+  },
+  {
+    "url": "help.svg",
+    "name": "help"
+  },
+  {
+    "url": "home.svg",
+    "name": "home"
+  },
+  {
+    "url": "home2.svg",
+    "name": "home2"
+  },
+  {
+    "url": "image.svg",
+    "name": "image"
+  },
+  {
+    "url": "info.svg",
+    "name": "info"
+  },
+  {
+    "url": "lego.svg",
+    "name": "lego"
+  },
+  {
+    "url": "library.svg",
+    "name": "library"
+  },
+  {
+    "url": "lightbulb.svg",
+    "name": "lightbulb"
+  },
+  {
+    "url": "link.svg",
+    "name": "link"
+  },
+  {
+    "url": "list-bullets.svg",
+    "name": "list bullets"
+  },
+  {
+    "url": "list-checks.svg",
+    "name": "list checks"
+  },
+  {
+    "url": "list-numbers.svg",
+    "name": "list numbers"
+  },
+  {
+    "url": "lock_locked.svg",
+    "name": "lock locked"
+  },
+  {
+    "url": "lock_open.svg",
+    "name": "lock open"
+  },
+  {
+    "url": "logout.svg",
+    "name": "logout"
+  },
+  {
+    "url": "mail.svg",
+    "name": "mail"
+  },
+  {
+    "url": "map-pin.svg",
+    "name": "map pin"
+  },
+  {
+    "url": "menu.svg",
+    "name": "menu"
+  },
+  {
+    "url": "more.svg",
+    "name": "more"
+  },
+  {
+    "url": "move.svg",
+    "name": "move"
+  },
+  {
+    "url": "near_me.svg",
+    "name": "near me"
+  },
+  {
+    "url": "news.svg",
+    "name": "news"
+  },
+  {
+    "url": "nodes.svg",
+    "name": "nodes"
+  },
+  {
+    "url": "palette.svg",
+    "name": "palette"
+  },
+  {
+    "url": "people.svg",
+    "name": "people"
+  },
+  {
+    "url": "person.svg",
+    "name": "person"
+  },
+  {
+    "url": "photo_lib.svg",
+    "name": "photo lib"
+  },
+  {
+    "url": "quizz.svg",
+    "name": "quizz"
+  },
+  {
+    "url": "radio.svg",
+    "name": "radio"
+  },
+  {
+    "url": "radio_checked.svg",
+    "name": "radio checked"
+  },
+  {
+    "url": "redeem.svg",
+    "name": "redeem"
+  },
+  {
+    "url": "redo.svg",
+    "name": "redo"
+  },
+  {
+    "url": "refresh.svg",
+    "name": "refresh"
+  },
+  {
+    "url": "save.svg",
+    "name": "save"
+  },
+  {
+    "url": "scissors.svg",
+    "name": "scissors"
+  },
+  {
+    "url": "search.svg",
+    "name": "search"
+  },
+  {
+    "url": "send.svg",
+    "name": "send"
+  },
+  {
+    "url": "settings.svg",
+    "name": "settings"
+  },
+  {
+    "url": "shopping_cart.svg",
+    "name": "shopping cart"
+  },
+  {
+    "url": "smile.svg",
+    "name": "smile"
+  },
+  {
+    "url": "spanner.svg",
+    "name": "spanner"
+  },
+  {
+    "url": "stack.svg",
+    "name": "stack"
+  },
+  {
+    "url": "star.svg",
+    "name": "star"
+  },
+  {
+    "url": "student.svg",
+    "name": "student"
+  },
+  {
+    "url": "studio.svg",
+    "name": "studio"
+  },
+  {
+    "url": "sync.svg",
+    "name": "sync"
+  },
+  {
+    "url": "text-align-center.svg",
+    "name": "text align center"
+  },
+  {
+    "url": "text-align-justify.svg",
+    "name": "text align justify"
+  },
+  {
+    "url": "text-align-left.svg",
+    "name": "text align left"
+  },
+  {
+    "url": "text-align-right.svg",
+    "name": "text align right"
+  },
+  {
+    "url": "text-b.svg",
+    "name": "text b"
+  },
+  {
+    "url": "text-italic.svg",
+    "name": "text italic"
+  },
+  {
+    "url": "text-t.svg",
+    "name": "text t"
+  },
+  {
+    "url": "text-underline.svg",
+    "name": "text underline"
+  },
+  {
+    "url": "thumb_up.svg",
+    "name": "thumb up"
+  },
+  {
+    "url": "tree-view.svg",
+    "name": "tree view"
+  },
+  {
+    "url": "tree.svg",
+    "name": "tree"
+  },
+  {
+    "url": "undo.svg",
+    "name": "undo"
+  },
+  {
+    "url": "upload.svg",
+    "name": "upload"
+  },
+  {
+    "url": "users-four.svg",
+    "name": "users four"
+  },
+  {
+    "url": "users.svg",
+    "name": "users"
+  },
+  {
+    "url": "verified.svg",
+    "name": "verified"
+  },
+  {
+    "url": "voucher.svg",
+    "name": "voucher"
+  },
+  {
+    "url": "warning.svg",
+    "name": "warning"
+  },
+  {
+    "url": "window.svg",
+    "name": "window"
+  },
+  {
+    "url": "wine.svg",
+    "name": "wine"
+  },
+  {
+    "url": "zoom-in.svg",
+    "name": "zoom in"
+  },
+  {
+    "url": "zoom-out.svg",
+    "name": "zoom out"
+  }
+]
